@@ -1,8 +1,18 @@
 # START YOAST BLOCK
 # ---------------------------
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aaronmays.com/sitemap_index.xml
+
+# ---------------------------
+# END YOAST BLOCK
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
 Disallow:
 
-Sitemap: http://aaronmays.local/sitemap_index.xml
+Sitemap: https://aaronmays.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

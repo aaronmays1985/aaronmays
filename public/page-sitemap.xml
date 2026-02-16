@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aaronmays.com/</loc>
-		<lastmod>2026-02-16T16:14:57+00:00</lastmod>
+		<lastmod>2026-02-16T22:26:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/aaron-mays.png</image:loc>
 		</image:image>
@@ -145,8 +145,8 @@
 		<lastmod>2026-02-16T15:18:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://aaronmays.com/work/standards-of-care-website/</loc>
-		<lastmod>2026-02-16T17:32:54+00:00</lastmod>
+		<loc>https://aaronmays.com/work/plumbs-web-and-native-apps/</loc>
+		<lastmod>2026-02-16T18:16:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/plumbs-app-multi-device-on-dark-surface-2.webp</image:loc>
 		</image:image>
@@ -173,6 +173,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://aaronmays.com/work/standards-of-care-website/</loc>
+		<lastmod>2026-02-16T22:22:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-multi-device-on-dark-surface-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-home-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-demo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-graduate-promo-page.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-pricing.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

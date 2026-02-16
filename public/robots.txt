@@ -8,11 +8,3 @@ Sitemap: https://aaronmays.com/sitemap_index.xml
 
 # ---------------------------
 # END YOAST BLOCK
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://aaronmays.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

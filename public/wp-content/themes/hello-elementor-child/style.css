@@ -189,9 +189,27 @@ body.logged-in main {
     margin: 0 0 0 8px;
 }
 
-.elementor-widget-button.text-link.ui-icon-arrow.green .elementor-button-content-wrapper:hover::after {
+.elementor-widget-button.text-link.ui-icon-arrow .elementor-button-content-wrapper:hover::after {
     background-image: url('data:image/svg+xml,<svg width="20" height="13" viewBox="0 0 20 13" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 6.02226H8.52725H18.1445M12.4836 11.0445L18.9989 6.02294L12.4836 1.00005" stroke="%2389A9B3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>');
 }
+
+
+
+.elementor-widget-button.text-link.ui-icon-external-site .elementor-button-content-wrapper::after {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin: 0 0 0 4px;
+    transition: all 0.3s ease; 
+    background-image: url('data:image/svg+xml,<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 1.00018V6.12714M13 1.00018H7.87232M13 1.00018L7 6.99991L5.5 8.49984M3.39986 1L1 1V12.9996L13 12.9995V10.5996" stroke="%2378949D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>');
+}
+
+.elementor-widget-button.text-link.ui-icon-external-site .elementor-button-content-wrapper:hover::after {
+    background-image: url('data:image/svg+xml,<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 1.00018V6.12714M13 1.00018H7.87232M13 1.00018L7 6.99991L5.5 8.49984M3.39986 1L1 1V12.9996L13 12.9995V10.5996" stroke="%2389A9B3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>');
+}
+
+
 
 .elementor-widget-button.ui-icon-arrow svg {
     width: 20px;

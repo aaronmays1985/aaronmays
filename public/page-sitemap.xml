@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aaronmays.com/</loc>
-		<lastmod>2026-02-18T04:05:26+00:00</lastmod>
+		<lastmod>2026-02-18T20:11:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/aaron-mays.png</image:loc>
 		</image:image>
@@ -176,8 +176,36 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://aaronmays.com/work/standards-of-care-website/</loc>
+		<lastmod>2026-02-18T03:34:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-multi-device-on-dark-surface-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-home-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-demo.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-graduate-promo-page.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-pricing.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://aaronmays.com/work/instinct-website/</loc>
-		<lastmod>2026-02-18T03:16:09+00:00</lastmod>
+		<lastmod>2026-02-18T20:19:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/instinct-website-multi-device-on-dark-surface.png</image:loc>
 		</image:image>
@@ -201,34 +229,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/instinct-website-ebook-without-form.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://aaronmays.com/work/standards-of-care-website/</loc>
-		<lastmod>2026-02-18T03:34:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-multi-device-on-dark-surface-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-home-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-demo.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-graduate-promo-page.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aaronmays.com/wp-content/uploads/2026/02/standards-website-pricing.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://aaronmays.com/wp-content/uploads/2026/01/circles-background-2.png</image:loc>
